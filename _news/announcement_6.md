@@ -5,5 +5,5 @@ inline: true
 related_posts: false
 ---
 
-I was awarded the "Rising Star of the Year Award" from The Institution of Engineering and Technology.
+I was named a finalist for the "Rising Star of the Year Award" from The Institution of Engineering and Technology.
 

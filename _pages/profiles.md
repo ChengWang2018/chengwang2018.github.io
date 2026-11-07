@@ -17,23 +17,44 @@ I am a PhD candidate at the RoboSafe Lab. I obtained my bachelor's degree from B
 
 **Amirhossein Vahidibejestani** - PhD Student
 
-I am a PhD candidate working for the [AEROSUB](https://aerosub.eu/) project funded by european comission.
+I am a PhD candidate working for the [AEROSUB](https://aerosub.eu/) project funded by the European Commission.
+
+**Yuanru Yang** - PhD Student
+
+I graduated from Ocean University of China. My research focuses on cognitive world models for benchmarking autonomous vehicles.
+
+**Qingliu Meng** - PhD Student
+
+I graduated from Xidian University. My research focuses on causal world models.
+
+**Pengcheng Xin** - PhD Student
+
+I graduated from Xidian University. My research focuses on silent world models for testing autonomous vehicles.
 
 ## Students
-- Xiuqi Wang - OUC & HWU
-- Xianglong Luo - OUC & HWU
-- Desheng Song - OUC & HWU
-- Jiongqi Li - OUC & HWU
-- Tianzi Chen - OUC & HWU
-- Taoxuan Shi - OUC & HWU
-- Jiamin Yin - OUC & HWU
-- Jiaqi Yang - OUC & HWU
-- Yuanru Yang - OUC & HWU
-- Yiran Liu  - Xidian University
-- Mobing Cai - Oxford University
+- Zixuan Wei - Xidian University: Feature-Guided Closed-Loop Gaussian Refinement for Vehicle Reconstruction
+- Jiasheng Wang - Xidian University: Semantic Driving Scenario Retrieval through Language–Trajectory Alignment
+- Haoyu Wang - Xidian University: A Diagnostic Framework for Monocular Camera Trajectory Assessment in Driving Videos
+- Haotong Li - Xidian University: Selection and Validation of Reference Driving Behavior Segments from Aerial Trajectories for Automated Driving Evaluation
+- Yuzhi He - Xidian University: Scenario Generation for Testing End-to-End Autonomous Driving
+- Zhaoqun Chen: Semantic Driving Scenario Retrieval through Language–Trajectory Alignment
+- Jingrao Fu: Multi-View Consistent 3D Gaussian Asset Reconstruction from Multi-Angle Vehicle Images
+- Fangzhen Li: Repairing Dynamic 3D Gaussian Assets for Improved Driving-Scene Rendering
+- Zihan Liang: Feature-Guided Closed-Loop Gaussian Refinement for Vehicle Reconstruction
+- Yibo Wang: World Model for Counterfactual Joint Trajectory Simulation Conditioned on Ego Action
 
 ## Alumni
 
+- Xiuqi Wang
+- Xianglong Luo
+- Desheng Song
+- Jiongqi Li
+- Tianzi Chen
+- Taoxuan Shi
+- Jiamin Yin
+- Jiaqi Yang
+- Yiran Liu
+- Mobing Cai
 - Lingxin Kong
 - Lin Shi  
 - Kexuan Xia

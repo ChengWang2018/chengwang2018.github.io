@@ -2,16 +2,16 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: The courses that I have tought.
+description: The courses that I have taught.
 nav: true
 nav_order: 6
 ---
 
-2014, I am currently teaching the Introduction of Electrical Engineering at HWU and Ocean University of China.
+I am currently the primary lecturer of Introduction to Electrical and Electronics (around 120 students) at Heriot-Watt University and Ocean University of China. At Heriot-Watt, I supervise PhD students in the [RoboSafe lab](/people/) and have supervised 18 student projects.
 
 During my Ph.D. at the Technical University of Darmstadt, I had the honor of teaching the following courses:
 - 2020 & 2021, Trends in Automotive Engineering, Technical University of Darmstadt, Bachelor and Master.
-- 2021, Automotive Mechatronics and Assistance Systems, Technical University of Darmstadt, Master. I wan responsible for the chapters "Radar", "Lidar" and "Time-of-flight".
+- 2021, Automotive Mechatronics and Assistance Systems, Technical University of Darmstadt, Master. I was responsible for the chapters "Radar", "Lidar" and "Time-of-flight".
 - 2020 & 2021, Automotive Engineering Tutorials, Technical University of Darmstadt, Master. I was responsible for "Parking" and "Driving resistance".
 - 2021, Motor Vehicles, Technical University of Darmstadt, Bachelor.
 
@@ -32,7 +32,7 @@ During my Ph.D. at the Technical University of Darmstadt, I had the honor of tea
 </div>
 
 
-In addition, I supervised **9** postgraduate students and **1** undergraduate student, **8** advance design projects. I am grateful to all the students I have worked with.
+In addition, at TU Darmstadt I supervised **9** postgraduate students and **1** undergraduate student, **8** advanced design projects. I am grateful to all the students I have worked with.
 
 <div class="row">
     <div class="col-sm-4 mt-3 mt-md-0">

@@ -32,11 +32,11 @@ I graduated from Xidian University. My research focuses on causal world models.
 I graduated from Xidian University. My research focuses on silent world models for testing autonomous vehicles.
 
 ## Students
-- Zixuan Wei - Xidian University: Feature-Guided Closed-Loop Gaussian Refinement for Vehicle Reconstruction
-- Jiasheng Wang - Xidian University: Semantic Driving Scenario Retrieval through Language–Trajectory Alignment
-- Haoyu Wang - Xidian University: A Diagnostic Framework for Monocular Camera Trajectory Assessment in Driving Videos
-- Haotong Li - Xidian University: Selection and Validation of Reference Driving Behavior Segments from Aerial Trajectories for Automated Driving Evaluation
-- Yuzhi He - Xidian University: Scenario Generation for Testing End-to-End Autonomous Driving
+- Zixuan Wei: Feature-Guided Closed-Loop Gaussian Refinement for Vehicle Reconstruction
+- Jiasheng Wang: Semantic Driving Scenario Retrieval through Language–Trajectory Alignment
+- Haoyu Wang: A Diagnostic Framework for Monocular Camera Trajectory Assessment in Driving Videos
+- Haotong Li: Selection and Validation of Reference Driving Behavior Segments from Aerial Trajectories for Automated Driving Evaluation
+- Yuzhi He: Scenario Generation for Testing End-to-End Autonomous Driving
 - Zhaoqun Chen: Semantic Driving Scenario Retrieval through Language–Trajectory Alignment
 - Jingrao Fu: Multi-View Consistent 3D Gaussian Asset Reconstruction from Multi-Angle Vehicle Images
 - Fangzhen Li: Repairing Dynamic 3D Gaussian Assets for Improved Driving-Scene Rendering
